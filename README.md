@@ -135,37 +135,43 @@ Previously generated narrations are displayed with an audio player.
 
 ## Amazon S3 Bucket
 
-![](images/Screenshot%202026-07-17%20104133.png)
+<img width="1530" height="492" alt="Screenshot 2026-07-17 104133" src="https://github.com/user-attachments/assets/dcc9b405-f25a-4e54-a4ab-dd4a4331ce87" />
+
 
 ---
 
 ## Project Fils
 
-![](images/Screenshot%202026-07-17%20104143.png)
+<img width="597" height="631" alt="Screenshot 2026-07-17 104143" src="https://github.com/user-attachments/assets/4a9ea236-af41-430b-aa97-166703405671" />
+
 
 ---
 
 ## AWS Lambda Configuration
 
-![](images/Screenshot%202026-07-17%20104159.png)
+<img width="1900" height="815" alt="Screenshot 2026-07-17 104159" src="https://github.com/user-attachments/assets/e33dbf3a-ee5b-4a7e-ab97-0580c7db4bf2" />
+
 
 ---
 
 ## API Gateway Routes
 
-![](images/Screenshot%202026-07-17%20104231.png)
+<img width="1867" height="657" alt="Screenshot 2026-07-17 104231" src="https://github.com/user-attachments/assets/4b9e1cf2-a857-4cc4-a395-808730972f8b" />
+
 
 ---
 
 ## Home Page
 
-![](images/Screenshot%202026-07-17%20104304.png)
+<img width="1716" height="855" alt="Screenshot 2026-07-17 104304" src="https://github.com/user-attachments/assets/fd368d9f-42f7-4392-8bc3-d974f3f66912" />
+
 
 ---
 
 ## Narrated Stories audio
 
-![](images/Screenshot%202026-07-17%20104317.png)
+<img width="1712" height="656" alt="Screenshot 2026-07-17 104317" src="https://github.com/user-attachments/assets/7abe4997-79f7-4ff0-aa99-52edee960114" />
+
 
 ---
 
